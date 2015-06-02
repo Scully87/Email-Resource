@@ -1,4 +1,4 @@
-<div style="color:#1e3e4a; text-align:center; font-size:64px; line-height:100px;">Email Resource</div>
+Email Resource
 ========================================
 Tools
 ------------------
