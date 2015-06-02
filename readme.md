@@ -1,4 +1,4 @@
-<span style="color:#1e3e4a; text-align:center; font-size:64px; line-height:100px; ">Email Resource</span>
+<div style="background-color:#2fbf78; text-align:center;"><span style="color:#1e3e4a; text-align:center; font-size:64px; line-height:100px; ">Email Resource</span></div>
 ========================================
 Tools
 ------------------
