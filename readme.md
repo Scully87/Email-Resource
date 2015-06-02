@@ -1,4 +1,5 @@
-<section style="background-color:#18313b;"><div style="background-color:#2fbf78; text-align:center;"><span style="color:#1e3e4a; text-align:center; font-size:64px; line-height:100px; ">Email Resource</span></div>
+<section style="background-color:#18313b;">
+<div style="background-color:#2fbf78; text-align:center;"><span style="color:#1e3e4a; text-align:center; font-size:64px; line-height:100px; ">Email Resource</span></div>
  <div style="padding-top:12px; margin-left:8px; padding-left:15px; height:30px; width:80px; background-color:#66cccc; color:#1e3e4a; font-size: 25px;">Tools</div>- [Campaign Monitor](https://redworks-lon.createsend.com/campaigns/create/step2/9A2DFB8150D3484A2540EF23F30FEDED/s#import) <span style="color:#66cccc;">( > import and send to addresses)</span>
 - [Litmus](https://litmus.com/) <span style="color:#66cccc;">( > cross platform email testing tool)</span>
 - [Email on Acid](https://www.emailonacid.com/login) <span style="color:#66cccc;">( > cross platform email testing tool)</span>
