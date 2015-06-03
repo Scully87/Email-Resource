@@ -9,6 +9,7 @@ Tools
 - [W3C Validator](http://validator.w3.org/#validate_by_input) <span style="color:#66cccc;">( > validate HTML code)</span>
 - [Kraken](https://kraken.io/web-interface) <span style="color:#66cccc;">( > Image optimiser)</span>
 - [PlaceHold](http://placehold.it/) <span style="color:#66cccc;">( > Image placeholder)</span>
+- [Subject Line Preview](http://codepen.io/awoodall/full/XbpMbo/) <span style="color:#66cccc;">( > Preview subject lines and preheader text)</span>
 
 Resources
 -------------------------------
