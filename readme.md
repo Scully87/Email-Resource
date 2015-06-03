@@ -20,6 +20,7 @@ Resources
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) <span style="color:#66cccc;">( > A set of ready made email modules)</span>
 - [Email Framework](http://emailframe.work/) <span style="color:#66cccc;">( > Email boilerplate with ready made modules)</span>
 - [Email Safe Fonts](http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html) <span style="color:#66cccc;">( > Useable fonts for email)</span>
+-  [Zurb Templates](http://zurb.com/ink/) <span style="color:#66cccc;">( > Email templates and boilerplate)</span>
 - [Outlook Pracitces](http://www.emailonacid.com/images/blog_images/downloads/2014/wp_outlook.pdf) <span style="color:#66cccc;">( > Best practices for Outlook Coding)</span>
 - [Bulletproof Buttons](http://buttons.cm/) <span style="color:#66cccc;">( > CTA button outlook fix)</span>
 - [What Counts](http://www.whatcounts.com/downloads/ebooks/email-guide.pdf) <span style="color:#66cccc;">( > Complete guide to email marketing)</span>
